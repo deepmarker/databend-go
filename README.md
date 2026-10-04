@@ -4,6 +4,8 @@ Golang driver for [databend cloud](https://www.databend.com/)
 
 ## Installation
 
+This checkout requires Go 1.26 or newer.
+
 ```
 go get github.com/datafuselabs/databend-go
 ```
